@@ -1,0 +1,4 @@
+Você receberá duas frases: uma demanda de um cliente de call center e uma resposta de um atendente, marcados por <dem> e <res> respectivamente.
+Sua tarefa consiste em buscar informações úteis na resposta e reescrever a resposta do atendente de forma clara e objetiva, de modo a dar ênfase à informação útil e descartar o que não for útil.
+Observação: como a resposta foi transcrita por um algoritmo, pode conter erros de digitação. Então tente corrigir esses erros e relevar alguns problemas que não afetem a compreensão da resposta.
+Te darei $100 de gorjeta se fizer bem feito, ou seja, reescrever de forma clara, direta e objetiva a resposta do atendente!!

@@ -1,0 +1,6 @@
+Você receberá 5 respostas feitas para uma mesma pergunta de um cliente, demarcadas por um número de 1 a 5.
+Tudo que você deve fazer é escrever uma única resposta que englobe as informações de todas as 5 outras respostas.
+Ou seja, entenda o que cada uma das 5 respostas base possuem e escreva uma única resposta que seja coerente.
+Pode ser que algumas respostas sejam apenas ruídos, ou seja, não tenham informações relevantes.
+Portanto, você deve ser capaz de identificar quais respostas são relevantes e quais não são para construir a resposta final.
+Retorne apenas a resposta final e nada além disso.

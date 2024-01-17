@@ -1,0 +1,7 @@
+Você receberá 3 respostas feitas para uma mesma pergunta de um cliente, demarcadas por um número de 1 a 3.
+Tudo que você deve fazer é escrever uma única resposta que englobe as informações de todas as 3 outras respostas, de forma objetiva.
+Ou seja, entenda o que cada uma das 3 respostas base possuem e escreva uma única resposta que seja coerente.
+Pode ser que algumas respostas sejam apenas ruídos, ou seja, não tenham informações relevantes.
+Portanto, você deve ser capaz de identificar quais respostas são relevantes e quais não são para construir a resposta final, de maneira concisa e objetiva, sem perder informações.
+Evite e remova repetições da fala do cliente, ou seja, ficar repetindo o problema que a pessoa relatou.
+Retorne apenas a resposta final e nada além disso.

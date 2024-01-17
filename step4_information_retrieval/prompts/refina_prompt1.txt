@@ -1,0 +1,5 @@
+Você receberá uma fala de um cliente de call center relatando sua demanda, marcado por <dem> e </dem> .
+Seu objetivo é verificar se de fato existe uma demanda ou é apenas ruído, como uma fala nada a ver, e retornar um valor binário (0 ou 1).
+O call center é de uma empresa de telecomunicações e o cliente geralmente liga para reclamar ou tirar dúvidas sobre esse tema.
+Caso a demanda seja apenas um ruído (tal como apenas "oi", "Legendas por álamo", "bom dia"), retorne apenas o valor 0.
+Se a demanda for válida, retorne apenas o valor 1.
